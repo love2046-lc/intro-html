@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Love2046-lc Pages
 
 You can use the [editor on GitHub](https://github.com/love2046-lc/intro-html/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
